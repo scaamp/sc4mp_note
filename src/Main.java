@@ -141,7 +141,6 @@ public class Main extends JFrame {
                 Font font = new Font("XD", 0, size_letters);
                 if (!textArea.getText().isEmpty())
                     textArea.setFont(font);
-
             }
         });
         pomniejsz_czcionke.addActionListener(new ActionListener() {
